@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Sandbox files
+*.ipynb
+*.txt
+
 # C extensions
 *.so
 
